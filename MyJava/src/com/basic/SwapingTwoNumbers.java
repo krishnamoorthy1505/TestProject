@@ -1,5 +1,6 @@
 package com.basic;
 
+
 public class SwapingTwoNumbers {
 
 	/**

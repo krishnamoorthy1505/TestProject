@@ -1,5 +1,5 @@
 package com.basic;
-
+/* A palindrome number is a number that is same after reverse */
 public class Polindrome {
 
 	public static void main(String[] args) {

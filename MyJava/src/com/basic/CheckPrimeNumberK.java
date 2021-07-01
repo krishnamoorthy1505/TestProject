@@ -1,6 +1,7 @@
 package com.basic;
 
 import java.util.Scanner;
+/*Prime number is a number that is greater than 1 and divided by 1 or itself only. */
 
 public class CheckPrimeNumberK {
 
