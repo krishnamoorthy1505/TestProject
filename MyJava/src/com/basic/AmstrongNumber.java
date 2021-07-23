@@ -4,7 +4,7 @@
 
 
 package com.basic;
-
+//Scanner package
 import java.util.Scanner;
 
 public class AmstrongNumber {
