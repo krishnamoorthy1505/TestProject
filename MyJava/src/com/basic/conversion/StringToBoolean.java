@@ -1,4 +1,4 @@
-package com.basic.conversation;
+package com.basic.conversion;
 
 public class StringToBoolean {
 
