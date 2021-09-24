@@ -2,7 +2,7 @@
 In other words, an emirp number is a number that is prime forwards or backward. 
 It is also known as twisted prime numbers.
 ex;79 is a prime number
-reverse 97 is prime number
+reverse 97 is also prime number
 
 */
 
