@@ -11,9 +11,9 @@ public class SwappingTwoNumberBitwise {
 		int a=input.nextInt();
 		int b=input.nextInt();
 		System.out.println("Before Swaping a="+a+" b="+b);
-		a=a^b;
-		b=a^b;
-		a=a^b;
+		a=a*b;
+		b=a/b;
+		a=a/b;
 		System.out.println("After Swapping Bitwise Operator a="+a+" b="+b);
 
 	}
